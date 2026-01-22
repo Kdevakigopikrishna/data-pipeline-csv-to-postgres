@@ -42,5 +42,25 @@ This project is designed for **beginners who are learning data engineering basic
 
 ---
 
-## 📂 Project Structure
+## 🎯 Learning Outcome
+
+- Understanding ETL (Extract, Transform, Load) concepts  
+- Working with CSV files using Pandas  
+- Data cleaning and handling missing values  
+- Connecting Python applications to PostgreSQL  
+- Loading data into database tables  
+- Executing SQL queries on transformed data  
+
+---
+
+## 📌 Future Improvements
+
+- Add logging to track pipeline execution  
+- Add proper error handling and exception management  
+- Automate the ETL pipeline using Apache Airflow  
+- Store database credentials securely using environment variables  
+- Optimize performance for large datasets  
+
+---
+
 
