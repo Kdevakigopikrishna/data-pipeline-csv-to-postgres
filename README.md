@@ -1,1 +1,46 @@
-# simple-etl-csv-to-postgresql
+# Simple ETL Pipeline (CSV to PostgreSQL)
+
+This project demonstrates a **beginner-friendly ETL (Extract, Transform, Load) data pipeline** using **Python, Pandas, and PostgreSQL**.
+
+---
+
+## 📌 Project Overview
+
+The goal of this project is to:
+- Extract data from a CSV file
+- Clean and transform the data
+- Load the processed data into a PostgreSQL database
+- Run SQL queries on the loaded data
+
+This project is designed for **beginners who are learning data engineering basics**.
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- PostgreSQL
+- SQLAlchemy
+- psycopg2
+
+---
+
+## 🔄 ETL Pipeline Steps
+
+### 1️⃣ Extract
+- Read data from a CSV file using Pandas
+
+### 2️⃣ Transform
+- Handle missing values
+- Replace null values with default values
+- Prepare clean data for loading
+
+### 3️⃣ Load
+- Create a PostgreSQL database connection
+- Load the transformed data into a PostgreSQL table
+
+---
+
+## 📂 Project Structure
+
